@@ -1,6 +1,5 @@
 ## Hi there 👋
 ![Nombre animado](nombre.gif)
-<img src="nombre.gif" width="200"/>
 
 <!--
 **w15hy/w15hy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
