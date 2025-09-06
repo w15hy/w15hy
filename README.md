@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Nombre animado](nombre.gif)
 
 <!--
