@@ -58,7 +58,7 @@
 <br>
 <!-- <div style="text-align: center;"> -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yeswah-gonzalez-96b0a9383/"><img src="assets/part1.png" width="100px"/></a><a href="https://www.instagram.com/"><img src="assets/part2.png" width="100px"/></a><a href="mailto:ingw15hy@gmail.com"><img src="assets/part3.png" width="100px"/></a>&nbsp&nbsp&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api?username=w15hy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></img>
+  <a href="https://www.linkedin.com/in/yeswah-gonzalez-96b0a9383/"><img src="assets/part1.png" width="100px"/></a><a href="https://www.instagram.com/"><img src="assets/part2.png" width="100px"/></a><a href="mailto:ingw15hy@gmail.com"><img src="assets/part3.png" width="100px"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api?username=w15hy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></img>
 </p>
 
 
