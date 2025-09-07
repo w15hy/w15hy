@@ -1,7 +1,9 @@
 <h1>👾 Привет, я Yeswah Gonzalez 👾</h1>
 <h3>Entusiasta de Linux & Ciberseguridad</h3>
 
-![interest](assets/interests.gif)
+<img src="assets/info_me_small.png" width="200">
+<img src="assets/nombre.gif" width="100">
+
 ![image](assets/about_me.png)
 
 <h2>Proyectos</h2>
