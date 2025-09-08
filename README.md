@@ -7,6 +7,11 @@
 
 ![image](assets/about_me.png)
 
+## 🚀 Technologies & Tools
+- **Languages:** Python, Java, Javascript, BASH. 
+- **Databases:** MySQL.  
+- **Tools:** Git.  
+
 <h2>Proyectos</h2>
 
 <table>
@@ -58,13 +63,12 @@
 <br>
 <!-- <div style="text-align: center;"> -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yeswah-gonzalez-96b0a9383/"><img src="assets/part1.png" width="100px"/></a><a href="https://www.instagram.com/"><img src="assets/part2.png" width="100px"/></a><a href="mailto:ingw15hy@gmail.com"><img src="assets/part3.png" width="100px"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api?username=w15hy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></img>
+  <a href="https://www.linkedin.com/in/yeswah-gonzalez-96b0a9383/"><img src="assets/part1.png" width="100px"/></a><a href="https://www.instagram.com/ing_w15hy?igsh=OWtxaWtwMzViczMz"><img src="assets/part2.png" width="100px"/></a><a href="mailto:ingw15hy@gmail.com"><img src="assets/part3.png" width="100px"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api?username=w15hy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></img>
 </p>
-
 
 <!--
 **w15hy/w15hy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+SQLITE, hacer el programa que tenia para bandit00
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
